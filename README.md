@@ -25,7 +25,7 @@
 ---
 
 ## 📌 Featured Projects
-### 1. [Modesense-commerce Website](#)
+### 1. [Modesense - E-commerce Website](#)
 A fully responsive e-commerce platform with product listings, cart functionality, and secure checkout. 
 **Tech Stack:** Html, CSS, JavaScrpit, Firebase 
 🔗 [Live Demo](https://modesensclone.netlify.app/) | 📂 [Repositor](https://github.com/VanshAggarwal4664/MODESENS-CLONE)
