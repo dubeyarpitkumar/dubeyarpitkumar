@@ -35,7 +35,7 @@ Scan food items to track calories instantly. Built with image recognition and mo
 **Tech Stack:** React, Node, Express, MongoDB  
 🔗 [Live Demo](https://calori-scan-frontend.vercel.app/) | 📂 [Repository](https://github.com/TheApostle-07/CaloriScan)
 
-### 3. [ModeSens - E-commerce Website](#)
+### 3. [Puma - E-commerce Website](#)
 A modern, responsive e-commerce puma website clone.. 
 **Tech Stack:** Html,CSS, JavaScript, Bootstrap 
 🔗 [Live Demo](https://pumaclonebygulshan.netlify.app/) | 📂 [Repository](https://github.com/Gulshan-nagar/puma-clone)
