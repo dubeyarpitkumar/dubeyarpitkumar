@@ -28,12 +28,12 @@
 ### 1. [Modesense - E-commerce Website](#)
 A fully responsive e-commerce platform with product listings, cart functionality, and secure checkout. 
 **Tech Stack:** Html, CSS, JavaScrpit, Firebase 
-🔗 [Live Demo](https://modesensclone.netlify.app/) | 📂 [Repositor](https://github.com/VanshAggarwal4664/MODESENS-CLONE)
+🔗 [Live Demo](https://modesensclone.netlify.app/) | 📂 [Repositor](https://github.com/dubeyarpitkumar/Modesense---E-Commerce-website)
 
 ### 2. [Calori-Scan](#)
 Scan food items to track calories instantly. Built with image recognition and modern web technologies.  
 **Tech Stack:** React, Node, Express, MongoDB  
-🔗 [Live Demo](https://calori-scan-frontend.vercel.app/) | 📂 [Repository](https://github.com/TheApostle-07/CaloriScan)
+🔗 [Live Demo](https://calori-scan-frontend.vercel.app/) | 📂 [Repository](https://github.com/dubeyarpitkumar/caloriScan)
 
 ### 3. [Puma - E-commerce Website](#)
 A modern, responsive e-commerce puma website clone.. 
